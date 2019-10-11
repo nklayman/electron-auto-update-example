@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <img alt="Vue logo" src="./assets/logo.png">
-    <HelloWorld msg="This is the old version of the app. You should get an update notification shortly."/>
+    <HelloWorld msg="This is the second version of the app. In the future, there may be a new update."/>
   </div>
 </template>
 
